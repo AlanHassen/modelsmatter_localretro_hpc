@@ -6,7 +6,7 @@ Reimplementation of LocalRetro to preprocess data in a distributed fashion using
 
 Note: Whenever `<Path>` is present, it is necessary to adjust the paths to the correct absolute folder.
 
-# LocalRetro Old
+#  Old LocalRetro Readme
 Implementation of Retrosynthesis Prediction with LocalRetro developed by prof. Yousung Jung group at KAIST (contact: ysjn@kaist.ac.kr).
 
 ## Developer
