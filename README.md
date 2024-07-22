@@ -2,7 +2,7 @@
 
 This package extends [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) to seamlessly integrate various single-step retrosynthesis models, as illustrated in our papers [Models Matter: The Impact of Single-Step Models on Synthesis Prediction](https://doi.org/10.1039/D3DD00252G) and [Mind the Retrosynthesis Gap: Bridging the divide between Single-step and Multi-step Retrosynthesis Prediction](https://openreview.net/forum?id=LjdtY0hM7tf).
 
-Reimplementation of LocalRetro to preprocess data in a distributed fashion using slurm. Starting point is to create a preprocessing pipeline with the slurm/Makefile. Just copy the slurm folder, change the relevant paths, and run "make create_experiment". Afterwards, follow the steps in the newly created make file.
+Reimplementation of LocalRetro to preprocess data in a distributed fashion using slurm. Starting point is to create a preprocessing pipeline with the slurm/Makefile. Just copy the "/slurm" folder, change the relevant paths in the Makefile, and run "make create_experiment". Afterwards, follow the steps in the newly created make file.
 
 Note: Whenever `<Path>` is present, it is necessary to adjust the paths to the correct absolute folder.
 
