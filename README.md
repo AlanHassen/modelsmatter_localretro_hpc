@@ -6,6 +6,10 @@ Reimplementation of LocalRetro to preprocess data in a distributed fashion using
 
 Note: Whenever `<Path>` is present, it is necessary to adjust the paths to the correct absolute folder.
 
+## Funding
+
+This study was partially funded by the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie Innovative Training Network European Industrial Doctorate grant agreement No. 956832 “Advanced machine learning for Innovative Drug Discovery”
+
 #  Old LocalRetro Readme
 Implementation of Retrosynthesis Prediction with LocalRetro developed by prof. Yousung Jung group at KAIST (contact: ysjn@kaist.ac.kr).
 
